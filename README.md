@@ -1,12 +1,9 @@
-# Natural Language Processing (NLP)
------------------------------------
-Date: 2018-01-08 ~
------------------------------------
-My goal is to implement NLP using libraries
+Natural Language Processing
 
-<Overview>
-  1. Spam Detector  2. Sentiment Analyser
-  3. Article Spinner
-  
+Overview
+1. Spam Detector (2018-01-08)
+2. 
+
+
 Reference
-1. github.com/lazyprogrammer/machine_learning_examples/nlp_class
+- github.com/lazyprogrammer/machine_learning_examples/nlp_class
